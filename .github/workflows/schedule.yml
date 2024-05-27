@@ -14,5 +14,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{" "}}
-          GIST_ID: ${{ https://gist.github.com/gmlwlsdl/e269f4452b75db230c2033f62b5bc104 }}
+          GIST_ID: ${{ e269f4452b75db230c2033f62b5bc104 }}
           TIMEZONE: ${{ Aisa/Seoul }}

@@ -26,7 +26,7 @@ interface Edge {
   node: {
     committedDate: string;
   };
-}
+} 
 
 (async () => {
   /**
